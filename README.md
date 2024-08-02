@@ -1,4 +1,24 @@
-## Hi there 👋
+<h2 id="header" align="center">Hi there 👋</h2>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" height=250 width=500>
+<p>I'm a Python backend developer</p>
+<p>How to contact me: Just send email to <a href="mailto:alex-j-fox@yandex.ru">alex-j-fox@yandex.ru</a></p>
+<p>My education: <a href="https://ru.hexlet.io/u/alex-j-fox">Hexlet.io</a> - practical programming courses</p>
+</div>
+
+<h2 id="header" align="center">My tech stack</h2>
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+
 
 <!--
 **alex-j-fox/alex-j-fox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
