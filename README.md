@@ -22,6 +22,10 @@
 <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
 </div>
 
+<br>
+<div align="center">
+  <p>I am also studying and developing in 1C-Bitrix and PHP.</p>
+</div>
 
 ---
 
