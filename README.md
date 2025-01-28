@@ -24,7 +24,7 @@
 
 <br>
 <div align="center">
-  <p>I am also studying and developing in 1C-Bitrix and PHP.</p>
+  <p>I am also developing in 1C-Bitrix and PHP.</p>
 </div>
 
 ---
@@ -32,7 +32,7 @@
 
 
 <div align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=alex-j-fox&show_icons=true&theme=vision-friendly-dark&border_radius=12">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=alex-j-fox&show_icons=true&theme=vision-friendly-dark&border_radius=12&count_private=true&include_all_commits=true">
   <br>
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-j-fox&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark&border_radius=12">
 </div>
